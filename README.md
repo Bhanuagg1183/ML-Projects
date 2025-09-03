@@ -12,7 +12,7 @@ Welcome to the ML Projects Repository! This repository contains a collection of 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Projects Overview
 
