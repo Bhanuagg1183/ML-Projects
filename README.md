@@ -68,4 +68,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 ---
 
-Feel free to explore the projects and dive into the world of machine learning!
+Feel free to explore the projects and dive into the world of machine learning!!!
