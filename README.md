@@ -16,10 +16,26 @@ Welcome to the ML Projects Repository! This repository contains a collection of 
 
 ## Projects Overview
 
-1. **Canopy Vision**: A computer vision project focused on image recognition and classification.
-2. **Cardio Divination**: A healthcare project that uses machine learning to predict cardiovascular diseases.
-3. **Phone Kart**: An e-commerce project that recommends smartphones based on user preferences.
-4. **Zoo Sorter**: A classification project that categorizes various animals in a zoo based on their features.
+
+### Canopy Vision
+ ```bash
+ A computer vision project focused on image recognition and classification.
+ ```
+
+### Cardio Divination
+ ```bash
+A healthcare project that uses machine learning to predict cardiovascular diseases.
+  ```
+
+### Phone Kart
+ ```bash
+An e-commerce project that recommends smartphones based on user preferences.
+  ```
+
+### Zoo Sorter
+```bash
+A classification project that categorizes various animals in a zoo based on their features.
+  ```
 
 Each project includes Jupyter Notebook files, along with a video and a PowerPoint presentation that provide insights into the methodologies and results.
 
