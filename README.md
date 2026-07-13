@@ -79,4 +79,4 @@ Then, open the desired notebook from the interface.
 
 ##### Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and create a pull request.
 ---
-Feel free to explore the projects and dive into the world of machine learning!!!
+##### !!! Feel free to explore the projects and dive into the world of machine learning !!!
