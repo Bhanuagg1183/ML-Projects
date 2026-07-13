@@ -1,6 +1,5 @@
 # MACHINE LEARNING PROJECTS
 
-
 # ML Projects Repository
 
 Welcome to the ML Projects Repository! This repository contains a collection of machine learning projects that span various domains, including computer vision, healthcare, and e-commerce. Each project is designed to showcase different aspects of machine learning and provide practical insights into real-world applications.
@@ -13,9 +12,7 @@ Welcome to the ML Projects Repository! This repository contains a collection of 
 - [Usage](#usage)
 - [Contributing](#contributing)
 
-
 ## Projects Overview
-
 
 ### Canopy Vision
  ```bash
@@ -78,8 +75,8 @@ jupyter notebook
 ```
 Then, open the desired notebook from the interface.
 
-## Contributing
+## Contributing 
 
-#### Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and create a pull request.
+##### Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and create a pull request.
 ---
 Feel free to explore the projects and dive into the world of machine learning!!!
