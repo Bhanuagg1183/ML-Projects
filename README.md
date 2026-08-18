@@ -14,22 +14,22 @@ Welcome to the ML Projects Repository! This repository contains a collection of 
 
 ## Projects Overview
 
-### Canopy Vision
+### Canopy Vision:
  ```bash
  A computer vision project focused on image recognition and classification.
  ```
 
-### Cardio Divination
+### Cardio Divination:
  ```bash
 A healthcare project that uses machine learning to predict cardiovascular diseases.
   ```
 
-### Phone Kart
+### Phone Kart:
  ```bash
 An e-commerce project that recommends smartphones based on user preferences.
   ```
 
-### Zoo Sorter
+### Zoo Sorter:
 ```bash
 A classification project that categorizes various animals in a zoo based on their features.
   ```
