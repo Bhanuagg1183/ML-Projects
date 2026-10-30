@@ -1,6 +1,7 @@
 # MACHINE LEARNING PROJECTS
 
 <!-- ## Machine Learning Projects Repository -->
+<!-- This repository is the collection of projects submitted in my internship.-->
 
 Welcome to the ML Projects Repository! This repository contains a collection of machine learning projects that span various domains, including computer vision, healthcare, and e-commerce. Each project is designed to showcase different aspects of machine learning and provide practical insights into real-world applications.
 
