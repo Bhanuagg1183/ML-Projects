@@ -1,7 +1,7 @@
 # MACHINE LEARNING PROJECTS
 
 <!-- ## Machine Learning Projects Repository -->
-<!-- This repository is the collection of projects submitted in my internship with Unified Mentors during May 2025 - Aug 2025.-->
+<!-- This repository is the collection of projects submitted in my internship with Unified Mentors Pvt. Ltd. during May 2025 - Aug 2025.-->
 
 Welcome to the ML Projects Repository! This repository contains a collection of machine learning projects that span various domains, including computer vision, healthcare, and e-commerce. Each project is designed to showcase different aspects of machine learning and provide practical insights into real-world applications.
 
